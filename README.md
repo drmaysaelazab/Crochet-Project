@@ -1,1 +1,2 @@
 # Crochet-Project
+# project notes
